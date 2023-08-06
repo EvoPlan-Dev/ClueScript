@@ -10,3 +10,4 @@ https://discord.gg/RRXAhp2K95
 
 - QBCore
 - Working FiveM Server :)
+- Full and easy customization
